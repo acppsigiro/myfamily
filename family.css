@@ -1,0 +1,48 @@
+.one{text-align:center;
+    font-family: cursive;}
+body {
+  background-image: url(https://img.freepik.com/free-vector/blurred-valentine-s-day-wallpaper_23-2148819570.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+hr{height:5px;
+    background-color: red;}
+.f{text-align:center;
+    font-family: cursive;}
+fieldset{border-width:3px;
+    border-color: #a3ba39;
+    border-style:double;
+    margin-bottom: 10px;}
+legend{text-align:center;
+    font-family: cursive;}
+.a{width:500px;
+    margin: 20px;
+padding:2px;
+   border: 5px dashed black;}
+
+.b{width:500px;
+    margin: 20px;
+padding:2px;
+border: 5px dashed black;}
+video{margin-left:30px;
+margin-top: 30px;
+padding:8px;
+border: 3px dashed black;}
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
